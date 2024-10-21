@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I’m learning Korean! Coding may be universal, but I'm also tackling 한국어, proving that both humans and machines can speak multiple languages!**
 
-<h3 align="left">Connect with me: <a href="mailto:alexander@pumarin.se">alexander@pumarin.se</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/alexander-pumarin" target="_blank">LinkedIn</a></h3>
 
 <h3 align="left">Visit my homepage: <a href="https://alex-p.dev" target="_blank">alex-p.dev</a></h3>
 
