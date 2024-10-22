@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderp258&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderp258" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderp258" alt="alexanderp258" /></a> </p>
 
 - 🔭 I’m currently working on **a fullstack banking application.**
 
@@ -17,7 +16,11 @@
 
 - ⚡ Fun fact **I’m learning Korean! Coding may be universal, but I'm also tackling 한국어, proving that both humans and machines can speak multiple languages!**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/alexander-pumarin" target="_blank">LinkedIn</a></h3>
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/alexander-pumarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-pumarin" height="30" width="40" /></a>
+
 
 <h3 align="left">Visit my homepage: <a href="https://alex-p.dev" target="_blank">alex-p.dev</a></h3>
 
