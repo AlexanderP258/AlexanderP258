@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Fullstack Banking Application.**
 
-- 🌱 I’m currently learning **Next.js, Django**
+- 🌱 I’m currently learning **Django**
 
 -  👯 I’m looking to collaborate on **projects**
 
