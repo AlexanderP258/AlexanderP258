@@ -1,4 +1,4 @@
-<h1 align="center">Hej Hej <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alexander.</h1>
+<h1 align="center">Hej <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alexander.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexanderp258&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderp258" /> </p>
 
 <h3 align="center">A passionate Fullstack Developer based in Stockholm/Sweden</h3>
