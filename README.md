@@ -9,7 +9,7 @@
 
 ### Facts about me ⚡
 
-- 🔭 I’m currently working on **a Fullstack Banking Application.**
+- 🔭 I’m currently working on **a CarPool Application for the Swedish Market.**
 
 - 🌱 I’m currently learning **Three.js, Django**
 
