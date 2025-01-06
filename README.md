@@ -3,7 +3,6 @@
 </a>
 
 <h1 align="center">Hej <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alexander.</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexanderp258&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderp258" /> </p>
 
 <h3 align="center">I'm a passionate Full Stack Developer based in Stockholm, creating scalable solutions that make a difference. With expertise spanning both frontend and backend development, I specialize in building enterprise-level applications that combine robust architecture with exceptional user experience.</h3>
 
