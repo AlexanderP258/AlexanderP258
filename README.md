@@ -4,20 +4,19 @@
 
 <h1 align="center">Hej <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Alexander.</h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer based in Stockholm, creating scalable solutions that make a difference. With expertise spanning both frontend and backend development, I specialize in building enterprise-level applications that combine robust architecture with exceptional user experience.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer based in Stockholm, creating scalable solutions that make a difference. With expertise spanning both frontend and backend development, I specialize in building enterprise-level applications that combine robust architecture with exceptional user experience which allows me to see the big picture while paying attention to the smallest details.</h3>
 
 ### 💡 **What Drives Me:**
-I believe in writing clean, maintainable code that solves real-world problems. My background in both front-end and back-end development allows me to see the big picture while paying attention to the smallest details. I'm particularly excited about the intersection of technology and sustainability, which drives my current work on carpooling solutions for the Scandinavian market.
+I believe in writing clean, maintainable code that solves real-world problems.
 
 ### 🚀 **What I Do:**
 - Architect and develop full-stack web applications using React, Spring Boot, and .NET
-- Design and implement cloud-native solutions on AWS, Azure, and GCP
+- Design and implement cloud-native solutions on AWS and Azure
 - Create efficient CI/CD pipelines for seamless deployment and integration
 
 ### 🌱 I'm currently learning:
   - **Three.js & .NET MAUI** - Creating cross-platform native apps and immersive 3D web experiences
   - **LangChain** - Building advanced AI applications with LLMs
-  - **RPA with UiPath** - Automating business processes at scale
 
 ### 👯 I’m looking to collaborate on **projects**
 
